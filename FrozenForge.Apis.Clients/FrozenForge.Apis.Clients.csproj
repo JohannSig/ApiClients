@@ -9,6 +9,12 @@
     <Company>Frozen Forge</Company>
     <Description>ApiClient capable of returning ApiResponses.</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>Jóhann Sigurðsson</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/JohannSig/ApiUtilities</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/JohannSig/ApiUtilities</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Api Client Response HttpClient</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

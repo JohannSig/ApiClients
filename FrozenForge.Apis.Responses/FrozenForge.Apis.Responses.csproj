@@ -9,6 +9,12 @@
     <Authors>Jóhann Sigurðsson</Authors>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Copyright>Jóhann Sigurðsson</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/JohannSig/ApiUtilities</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/JohannSig/ApiUtilities</RepositoryUrl>
+    <PackageTags>Api Response HttpClient</PackageTags>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
