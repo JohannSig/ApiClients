@@ -1,9 +1,9 @@
 # Api Utilities
 
-## Apis.Responses
+## FrozenForge.Apis.Responses
 
 Contains the ApiResponse<TData> model.
  
-## Apis.Clients
+## FrozenForge.Apis.Clients
 
 Contains the ApiClient, a HttpClient/HttpResponseMessage wrapper compatible with IServerCollection.AddHttpClient<TClient>().
