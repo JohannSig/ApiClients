@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>FrozenForge.Apis</RootNamespace>
+    <Version>5.0.0</Version>
+    <Description>ApiResponse classes intended to wrap HttpResponseMessages.</Description>
+    <Company>Frozen Forge</Company>
+    <Authors>Jóhann Sigurðsson</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>

@@ -23,11 +23,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\FrozenForge.Apis\FrozenForge.Apis.csproj" />
+    <Folder Include="Integrations\Utilities\" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Integrations\Utilities\" />
+    <ProjectReference Include="..\FrozenForge.Apis.Clients\FrozenForge.Apis.Clients.csproj" />
   </ItemGroup>
 
 </Project>
